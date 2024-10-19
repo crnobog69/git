@@ -7,7 +7,7 @@ git branch -M main
 
 # -------
 
-git remote add origin git@github.com:crnobog69/git.git
+git remote add origin
 
 # git remote add codeberg 
 

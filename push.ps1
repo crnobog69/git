@@ -9,3 +9,9 @@ git commit -m "❄️"
 
 # Пошаљи промене на GitHub (или други remote)
 git push origin main
+
+# Пошаљи промене на Codeberg
+git push codeberg main
+
+# Пошаљи промене на GitLab
+git push gitlab main
