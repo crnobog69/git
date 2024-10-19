@@ -9,14 +9,14 @@ git branch -M main
 
 git remote add origin
 
-# git remote add codeberg 
+git remote add codeberg 
 
-# git remote add gitlab
+git remote add gitlab
 
 # -------
 
 git push origin main
 
-# git push codeberg main
+git push codeberg main
 
-# git push gitlab main
+git push gitlab main
