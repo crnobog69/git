@@ -11,7 +11,7 @@ git commit -m "❄️"
 git push origin main
 
 # Пошаљи промене на Codeberg
-git push codeberg main
+# git push codeberg main
 
 # Пошаљи промене на GitLab
-git push gitlab main
+# git push gitlab main
