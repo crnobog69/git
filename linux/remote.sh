@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Github
 git remote add github git@github.com:crnobog69/git.git
 
