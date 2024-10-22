@@ -15,7 +15,7 @@ git commit -m "❄️"
 git branch -M main
 
 # Додавање удаљених репозиторијума (овде треба унети одговарајуће URL-ове)
-git remote add origin <URL origin репозиторијума>
+git remote add github <URL origin репозиторијума>
 git remote add codeberg <URL codeberg репозиторијума>
 git remote add gitlab <URL gitlab репозиторијума>
 
