@@ -10,14 +10,14 @@
 
 ## 📂 | Оперативни системи
 
-- 🐧 | Linux - `/linux`
-- 🪟 | Windows - `/windows`
+- 🐧 | Linux - [`/linux`](linux/)
+- 🪟 | Windows - [`/windows`](windows/)
 
 ### Остало
 
-- `push.sh`
-- `push.ps1`
-- `remote.md`
+- [`push.sh`](push.sh)
+- [`push.ps1`](push.ps1)
+- [`remote.md`](remote.md)
 
 <br>
 
