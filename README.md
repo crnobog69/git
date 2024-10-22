@@ -17,6 +17,7 @@
 
 - `push.sh`
 - `push.ps1`
+- `remote.md`
 
 <br>
 
