@@ -10,8 +10,8 @@
 
 ## 📂 | Оперативни системи
 
-- 🐧 | Linux - [`/linux`](linux/)
-- 🪟 | Windows - [`/windows`](windows/)
+- 🐧 | Linux - [`linux/`](linux/)
+- 🪟 | Windows - [`windows/`](windows/)
 
 ### Остало
 
